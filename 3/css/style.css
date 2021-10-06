@@ -117,13 +117,11 @@ body {
 .container-list {
   margin: 0px;
   padding-left: 15px;
-
 }
 
 .content_box, .outcome_box {
   width: 692px;
   margin-bottom: 10px;
-
 }
 
 /* all_principle */
@@ -131,7 +129,6 @@ body {
 .third_title {
   margin-bottom: 10px;
 }
-
 
 .item:not(:last-child) {
   padding-bottom: 20px;
